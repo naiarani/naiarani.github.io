@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ala Wai Drone"
+title: "AlaWaiDrone"
 permalink: /alawaidrone/
 author_profile: true
 classes: wide
