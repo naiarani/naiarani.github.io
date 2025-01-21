@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>E-Hawk - Naia Lum</title>
+<!-- begin _includes/seo.html --><title>Course Projects - Naia Lum</title>
 <meta name="description" content="I’m a BS/MS student studying Autonomous Systems and Robotics!">
 
 
@@ -21,8 +21,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Naia Lum">
-<meta property="og:title" content="E-Hawk">
-<meta property="og:url" content="http://localhost:4000/ehawk/">
+<meta property="og:title" content="Course Projects">
+<meta property="og:url" content="http://localhost:4000/classprojects/">
 
 
   <meta property="og:description" content="I’m a BS/MS student studying Autonomous Systems and Robotics!">
@@ -42,7 +42,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/ehawk/">
+<link rel="canonical" href="http://localhost:4000/classprojects/">
 
 
 
@@ -82,7 +82,7 @@
 
   </head>
 
-  <body class="layout--archive" dir="ltr">
+  <body class="layout--archive wide" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -252,20 +252,40 @@
 
   <div class="archive">
     
-      <h1 id="page-title" class="page__title">E-Hawk</h1>
+      <h1 id="page-title" class="page__title">Course Projects</h1>
     
-    <div style="text-align: center; margin-bottom: 30px;">
-  <img src="/assets/images/ehawk_3.jpg" alt="ehawk" />
+    <p>Welcome to the course projects page! Here’s a quick overview of what each project is about.</p>
+
+<h2 id="2-link-manipulator-in-space">2-Link Manipulator in Space</h2>
+
+<p>For my final project for MMAE 540: Robotics, I developed the dynamics and preesent various methods of control for a 2-link
+manipulator arm attatched to a satellite bus in a zero-gravity environment. I used Matlab to develop the simulations, and explored PD, Adaptive Control, and MPC controllers. You can see my GitHub repo <a href="https://github.com/naiarani/MMAE540-FinalProject">here</a>.</p>
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/images/540project" alt="540project" style="max-width: 100%; height: auto" />
 </div>
 
-<h2 id="about-the-project">About the Project</h2>
+<h2 id="gnss-spoofing-detection-method---covariance-analysis">GNSS Spoofing Detection Method - Covariance Analysis</h2>
 
-<p>The E-Hawk is an electric-powered motor glider project. The ultimate goal is to fly the aircraft within the Hawaiian islands using only renewable energy.
-See the <a href="https://ehawk.iolani.org/">E-Hawk website</a> for additional posts and updates!</p>
+<p>As part of my research lab I have been able to learn and contribute some work towards defining a measurement space for detection of GNSS spoofing detection. A highlight of this project has been learning a lot about GPS, other navigation methods such as LiDAR and IMUs, estimation, signal processing, and more! I use Matlab to conduct these Monte Carlo tests</p>
 
-<div style="text-align: center; margin-top: 30px;">
-  <a href="/" class="btn btn-home">Back to Home</a>
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/images/researchexample.png" alt="research" style="max-width: 100%; height: auto" />
 </div>
+
+<h2 id="reinforcement-learning-for-calico-based-on-alphazero">Reinforcement Learning for Calico based on AlphaZero</h2>
+
+<p>For my final project for MMAE 549: Optimal Control, I attempted to develop a board game environment and use reinforcement learning techniques, based on AlphaGo Zero, to train a model to beat human players. AlphaGo Zero was the first machine learning algorithm to beat human professionals without any apriori data. The model aims to train a convolutional neural network (CNN) with Monte Carlo Tree Search (MCTS). My project focused on creating a board game environment in Python, similar to Calico, and adapting this algorithm to play the game environment.</p>
+
+<p>I attempted various methods to test and implement the objective, integrating the SIMPLE github library, using farma’s gymnasium API, starting from scratch and following other’s AlphaZero structures, and implementing a simplified MCTS (without policy iteration from CNN) with a simpler existing game environment. Majority of my work was spent on attempting to create my own game environment to work with the structures of other MCTS and AlphaZero implementations.</p>
+
+<h2 id="investigating-solar-coronal-temperatures-through-goes-u-observations">Investigating Solar Coronal Temperatures Through GOES-U Observations</h2>
+
+<p>Abstract: This group project aimed to investigate the phenomena that is the significant discrepancy
+between the solar corona’s high temperatures compared to the effective temperature
+of the Sun. Utilizing data from GOES-19, COR3, and COR2, we attempt to conduct an analysis on the relationship between solar
+radiation emissions in the form of X-Ray flux and measured coronal temperatures via electron density profiles. We use Sun.py to test the correlation
+of solar activity via the fluctuations of X-ray activity, the change in sun spots, and the proton density.</p>
 
 
   </div>

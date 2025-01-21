@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "XPRIZE Rainforest Competition"
 permalink: /xprize/
 author_profile: true
@@ -12,7 +12,7 @@ classes: wide
 
 # XPRIZE Rainforest
 
-Welcome to the XPRIZE Rainfores project page! Here's an overview of what this project is about.
+Welcome to the XPRIZE Rainforest project page! Here's an overview of what this project is about.
 
 ## About the Project
 

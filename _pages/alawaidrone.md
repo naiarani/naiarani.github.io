@@ -1,18 +1,14 @@
 ---
-layout: default
-title: "AlaWaiDrone"
+layout: archive
+title: "Ala Wai Drone"
 permalink: /alawaidrone/
 author_profile: true
 classes: wide
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone" style="max-width: 200px; height: auto; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+  <img src="{{ site.baseurl }}/assets/images/alawaidrone_1.png" alt="Ala Wai Drone" style="max-height: 400px; ">
 </div>
-
-# Ala Wai Drone Project
-
-Welcome to the Ala Wai Drone project page! Here's an overview of what this project is about.
 
 ## About the Project
 
@@ -21,7 +17,7 @@ The Ala Wai Drone is a custom designed and built autonomous water sampling drone
 
 
 <div style="text-align: center; margin-top: 30px;">
-  <a href="{{ site.baseurl }}/" class="btn btn-home">Back to Home</a>
+  <a href="{{ site.baseurl }}/" class="btn btn-home">Back to Home </a>
 </div>
 
 
