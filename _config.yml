@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Naia Lum"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm a BS/MS student studying Autonomous Systems and Robotics!"
-  location         : "Honolulu, HI"
-  email            : "nlum@hawk.iit.edu"
+  bio              : "I'm a PhD Student in Aerospace Engineering at Virginia Tech! My current focus is on navigation integrity monitoring networks"
+  location         : "Honolulu, HI > Blacksburg, VA"
+  email            : "naialum@vt.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

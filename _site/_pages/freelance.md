@@ -24,17 +24,17 @@ Below is a gallery of images showing the different stages of development.
 <div class="scrollable-gallery">
   <div class="gallery-item">
     <img src="{{ site.baseurl }}/assets/images/naiart.png" alt="art">
-    <p class="gallery-description">Sensor Packages in Singapore</p>
+    <p class="gallery-description">Illustration</p>
   </div>
 
   <div class="gallery-item">
     <img src="{{ site.baseurl }}/assets/images/tothemoon.jpg" alt="moonmural">
-    <p class="gallery-description">XPRIZE Semifinals testing in Singapore.</p>
+    <p class="gallery-description">3-panel mural in a 3-floor stairway.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_4.JPG" alt="xprize4">
-    <p class="gallery-description">Holding the next sensor package to be deployed in Brazil</p>
+    <img src="{{ site.baseurl }}/assets/images/hackers.JPG" alt="xprize4">
+    <p class="gallery-description">Multimedia donor wall for Sullivan Center</p>
   </div>
 
 
