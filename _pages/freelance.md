@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: archive
 title: "Graphic Design"
 permalink: /freelance/
 author_profile: true
---- -->
+---
 
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="{{ site.baseurl }}/assets/images/ehawk_3.jpg" alt="ehawk">
