@@ -8,15 +8,16 @@ classes: wide
 
 ##  A Little About Me
 
-Hello! I am a 5th year student at the Illinois Institute of Technology where I'm pursuing a B.S. in Mechanical Engineering and a M.S. in Autonomous Systems and Robotics. I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences. I'm looking to contribute to aerospace science and interesting robotics problems!
+Hello! I am a 1st year PhD student at Virginia Tech working in the Assured Vehicle Autonomy Lab under Dr. Mathieu Joerger. My current research focus is in GNSS RFI detection over large sensor networks. My broader interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
 
-Currently, my interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
+Outside of research, I've had multiple industry experiences, technical projects, and creative projects. 
 
 ## Experience
 
 | --- | --- | --- |
 | When | What | Where |
-| Spring 2023 - Present | Graduate Research Assistant | CARNATIONS
+| Fall 2025 - Present | Graduate Researcher | Virginia Tech 
+| Spring 2023 - Spring 2025 | Graduate Research Assistant | CARNATIONS
 | Summer 2024 | Perception & Embedded Machine Learning Intern | Draper Laboratory
 | Summer 2023 | ISS Payload Integration Intern | Boeing / NASA-contractor
 | Summer 2022 | Structural Design Engineering Intern | Boeing

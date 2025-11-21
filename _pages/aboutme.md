@@ -8,9 +8,9 @@ classes: wide
 
 ##  A Little About Me
 
-Hello! I am a 5th year student at the Illinois Institute of Technology where I'm pursuing a B.S. in Mechanical Engineering and a M.S. in Autonomous Systems and Robotics. I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences. I'm looking to contribute to aerospace science and interesting robotics problems!
+Hello! I'm Naia, and I'm from Honolulu, HI. I am a 1st year PhD student at Virginia Tech working in the Assured Vehicle Autonomy Lab under Dr. Mathieu Joerger. My current research focus is in GNSS RFI detection over large sensor networks. Though, outside of research, I've been able to have diverse experiences through multiple industry internships, side projects, and research experiences.
 
-Currently, my interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
+My broad research interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
 
 
 ## Links
