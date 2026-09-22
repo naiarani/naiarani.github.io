@@ -8,7 +8,7 @@ classes: wide
 
 ##  A Little About Me
 
-Hello! I am a 1st year PhD student at Virginia Tech working in the Assured Vehicle Autonomy Lab under Dr. Mathieu Joerger. My current research focus is in GNSS RFI detection over large sensor networks. My broader interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
+Hello! I am a 2nd year PhD student at Virginia Tech working in the Assured Vehicle Autonomy Lab under Dr. Mathieu Joerger. My current research focus is in GNSS RFI detection over large sensor networks. My broader interests lie in guidance navigation and control (GNC), field robotics, remote sensing, GNSS signal processing, and astrodynamics.
 
 Outside of research, I've had multiple industry experiences, technical projects, and creative projects. 
 
@@ -17,12 +17,16 @@ Outside of research, I've had multiple industry experiences, technical projects,
 | --- | --- | --- |
 | When | What | Where |
 | Fall 2025 - Present | Graduate Researcher | Virginia Tech 
-| Spring 2023 - Spring 2025 | Graduate Research Assistant | CARNATIONS
+| Spring 2023 - Spring 2025 | Part-Time Graduate Research Assistant | CARNATIONS
 | Summer 2024 | Perception & Embedded Machine Learning Intern | Draper Laboratory
 | Summer 2023 | ISS Payload Integration Intern | Boeing / NASA-contractor
 | Summer 2022 | Structural Design Engineering Intern | Boeing
 | Summer 2021 - Fall 2022 | Project Engineering Intern | Dimension Inx
 | Spring 2020 - Fall 2022 | Prototyping Lab Mentor | Kaplan Institute's IdeaShop
+
+## Publications
+- Lum, Naia, Malani, Shorya, Joerger, Mathieu, " An Intersection-Union Test for Common-Mode C/N0 Drop Detection in a Self-Calibrating GNSS Jamming Monitor," Proceedings of the 39th International Technical Meeting of the Satellite Division of the Institute of Navigation (ION GNSS+ 2026), Orlando, Florida, September 2026.
+- Lum, Naia, Malani, Shorya, Joerger, Mathieu, "GNSS Jamming Detection Using the CORS Network – A Case Study in North Carolina," Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026, pp. 729-743.
 
 ## Projects
 
