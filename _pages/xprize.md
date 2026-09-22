@@ -45,14 +45,10 @@ Below is a gallery of images showing the different stages of development.
   </div>
 
   <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_7.JPG" alt="xprize4">
+    <img src="{{ site.baseurl }}/assets/images/xprize_7.jpg" alt="xprize7">
     <p class="gallery-description">Student team in Singapore post data collection period</p>
   </div>
 
-  <div class="gallery-item">
-    <img src="{{ site.baseurl }}/assets/images/xprize_7.JPG" alt="xprize4">
-    <p class="gallery-description">IIT team in Brazil post data collection period</p>
-  </div>
 </div>
 
 <div style="text-align: center; margin-top: 30px;">

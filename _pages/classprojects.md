@@ -14,7 +14,7 @@ For my final project for MMAE 540: Robotics, I developed the dynamics and preese
 manipulator arm attatched to a satellite bus in a zero-gravity environment. I used Matlab to develop the simulations, and explored PD, Adaptive Control, and MPC controllers. You can see my GitHub repo [here](https://github.com/naiarani/MMAE540-FinalProject).
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="{{ site.baseurl }}/assets/images/540project" alt="540project" style="max-width: 100%; height: auto">
+  <img src="{{ site.baseurl }}/assets/images/540project.png" alt="540project" style="max-width: 100%; height: auto">
 </div>
 
 ## GNSS Spoofing Detection Method - Covariance Analysis
